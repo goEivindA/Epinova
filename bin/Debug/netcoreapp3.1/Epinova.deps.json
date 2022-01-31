@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "EpinovaPart1/1.0.0": {
+      "Epinova/1.0.0": {
         "runtime": {
-          "EpinovaPart1.dll": {}
+          "Epinova.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "EpinovaPart1/1.0.0": {
+    "Epinova/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

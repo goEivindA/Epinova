@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\98eiv\\OneDrive\\Skrivebord\\EpinovaPart1\\EpinovaPart1.csproj": {}
+    "C:\\Users\\98eiv\\OneDrive\\Skrivebord\\Epinova\\Epinova.csproj": {}
   },
   "projects": {
-    "C:\\Users\\98eiv\\OneDrive\\Skrivebord\\EpinovaPart1\\EpinovaPart1.csproj": {
+    "C:\\Users\\98eiv\\OneDrive\\Skrivebord\\Epinova\\Epinova.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\98eiv\\OneDrive\\Skrivebord\\EpinovaPart1\\EpinovaPart1.csproj",
-        "projectName": "EpinovaPart1",
-        "projectPath": "C:\\Users\\98eiv\\OneDrive\\Skrivebord\\EpinovaPart1\\EpinovaPart1.csproj",
+        "projectUniqueName": "C:\\Users\\98eiv\\OneDrive\\Skrivebord\\Epinova\\Epinova.csproj",
+        "projectName": "Epinova",
+        "projectPath": "C:\\Users\\98eiv\\OneDrive\\Skrivebord\\Epinova\\Epinova.csproj",
         "packagesPath": "C:\\Users\\98eiv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\98eiv\\OneDrive\\Skrivebord\\EpinovaPart1\\obj\\",
+        "outputPath": "C:\\Users\\98eiv\\OneDrive\\Skrivebord\\Epinova\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\98eiv\\AppData\\Roaming\\NuGet\\NuGet.Config",

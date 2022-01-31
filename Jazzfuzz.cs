@@ -1,15 +1,15 @@
 using System;
-public class FizzBuzz {
+public class Jazzfuzz{
     //variables
     private string[] numberArray;
     private int lengthArray;
     //constructor
-    public FizzBuzz(int lengthArray){
+    public Jazzfuzz(int lengthArray){
         numberArray = createArray(lengthArray);
         this.lengthArray = lengthArray;
     }
     //functions
-    private string[] createArray(int lengthArray){
+      private string[] createArray(int lengthArray){
         string[] array = new string[lengthArray];
         for(int i = 0; i < lengthArray; i++){
             int number = i + 1;
@@ -17,35 +17,33 @@ public class FizzBuzz {
         }
         return array;
     }
-    //FizzBuzz functions
-    public void fizzBuzzPrint(){
+    //Jazz and Fuzz functions
+    public void jazzFuzzPrint(){
         string[] arrayResualt = numberArray;
-        addFizzAndBuzz(arrayResualt);
-        for(int i = 0; i < arrayResualt.Length; i++){
+        addJazzAndFuzz(arrayResualt);
+        for(int i = arrayResualt.Length - 1; i >= 0; i--){
             Console.WriteLine(arrayResualt[i]);
         }
     }
-    private void addFizzAndBuzz(string[] array){
-        fizz(array);
-        buzz(array);
+    private void addJazzAndFuzz(string[] array){
+        jazz(array);
+        fuzz(array);
     }
-    
-    private void fizz(string[] array){
-        for(int i = 2; i < array.Length; i+=3){
-            array[i] = "Fizz";
+    private void jazz(string[] array){
+        for(int i = 8; i < array.Length; i+=9){
+            array[i] = "Jazz";
         }
     }
-    private string[] buzz(string[] array){
-        for(int i = 4; i < array.Length; i+=5){
+    private void fuzz(string[] array){
+        for(int i = 3; i < array.Length; i+=4){
             int number;
             bool numberCheck = int.TryParse(array[i], out number);
             if(!numberCheck){
-                array[i] = "FizzBuzz";
+                array[i] = "JazzFuzz";
             }
             else{
-                array[i] = "Buzz";
+                array[i] = "Fuzz";
             }
         }
-        return array;
     }
 }
