@@ -1,0 +1,13 @@
+C:\Users\98eiv\OneDrive\Skrivebord\EpinovaPart1\bin\Debug\netcoreapp3.1\EpinovaPart1.exe
+C:\Users\98eiv\OneDrive\Skrivebord\EpinovaPart1\bin\Debug\netcoreapp3.1\EpinovaPart1.deps.json
+C:\Users\98eiv\OneDrive\Skrivebord\EpinovaPart1\bin\Debug\netcoreapp3.1\EpinovaPart1.runtimeconfig.json
+C:\Users\98eiv\OneDrive\Skrivebord\EpinovaPart1\bin\Debug\netcoreapp3.1\EpinovaPart1.runtimeconfig.dev.json
+C:\Users\98eiv\OneDrive\Skrivebord\EpinovaPart1\bin\Debug\netcoreapp3.1\EpinovaPart1.dll
+C:\Users\98eiv\OneDrive\Skrivebord\EpinovaPart1\bin\Debug\netcoreapp3.1\EpinovaPart1.pdb
+C:\Users\98eiv\OneDrive\Skrivebord\EpinovaPart1\obj\Debug\netcoreapp3.1\EpinovaPart1.csprojAssemblyReference.cache
+C:\Users\98eiv\OneDrive\Skrivebord\EpinovaPart1\obj\Debug\netcoreapp3.1\EpinovaPart1.AssemblyInfoInputs.cache
+C:\Users\98eiv\OneDrive\Skrivebord\EpinovaPart1\obj\Debug\netcoreapp3.1\EpinovaPart1.AssemblyInfo.cs
+C:\Users\98eiv\OneDrive\Skrivebord\EpinovaPart1\obj\Debug\netcoreapp3.1\EpinovaPart1.csproj.CoreCompileInputs.cache
+C:\Users\98eiv\OneDrive\Skrivebord\EpinovaPart1\obj\Debug\netcoreapp3.1\EpinovaPart1.dll
+C:\Users\98eiv\OneDrive\Skrivebord\EpinovaPart1\obj\Debug\netcoreapp3.1\EpinovaPart1.pdb
+C:\Users\98eiv\OneDrive\Skrivebord\EpinovaPart1\obj\Debug\netcoreapp3.1\EpinovaPart1.genruntimeconfig.cache
